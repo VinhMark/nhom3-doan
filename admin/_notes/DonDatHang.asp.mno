@@ -1,0 +1,4 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<info>
+	<infoitem key="UD_ddh" value="name:MaDDH;datatype:int,name:MaKH;datatype:int,name:TaiKhoan;datatype:varchar,name:NgayDat;datatype:smalldatetime,name:TongTien;datatype:int" />
+</info>
